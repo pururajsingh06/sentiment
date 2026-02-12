@@ -7,6 +7,8 @@ scikit-learn
 pickle-mixin
 nltk
 matplotlib
+googletrans
+
 
 
 
