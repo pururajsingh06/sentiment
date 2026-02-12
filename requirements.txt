@@ -6,5 +6,7 @@ pandas
 scikit-learn
 pickle-mixin
 nltk
+matplotlib
+
 
 
